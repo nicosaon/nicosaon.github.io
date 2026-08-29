@@ -1,5 +1,5 @@
 
-Hoy empiezo un curso de programación orientada a objetos (OOP) y la adorable profesora nos dio un texto para que analicemos antes de estudiar cualquier concepto teórico. El clásico arréglenselas como puedan. Me encantan las profes así <3
+Hoy empiezo un curso de programación orientada a objetos (OOP) y la adorable profesora nos dio un texto para que analicemos antes de estudiar cualquier concepto teórico. El clásico arréglenselas como puedan. Me encantan las profes así ❤️
 
 El texto que nos dio es este:
 
